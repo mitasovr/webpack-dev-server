@@ -24,7 +24,7 @@
     "spdy": "^3.4.1",
     "strip-ansi": "^3.0.0",
     "supports-color": "^3.1.1",
-    "webpack-dev-middleware": "^1.10.2",
+    "webpack-dev-middleware": "git://github.com/webpack/webpack-dev-middleware.git#3833a8543ed56d8857c9bcd49fd2257bc9b84595",
     "yargs": "^6.0.0"
   },
   "devDependencies": {
